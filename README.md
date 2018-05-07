@@ -1,2 +1,2 @@
 # grenade_mnist
-mnist written in grenade, a haskell neural network library
+mnist neural network written in grenade.
